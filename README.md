@@ -1,2 +1,2 @@
-# OP---Scan
+# OP - Scan
 An Open Port Scanner
